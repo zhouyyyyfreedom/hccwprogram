@@ -56,7 +56,7 @@
                             <span class="sr-only">Toggle navigation</span>
                             <span class="nav__icon-toggle-bar"></span>
                             <span class="nav__icon-toggle-bar"></span>
-                            <span class="nav__icon-toggle-bar"></span>
+                            <span class="nav__icon-toggle-bar"></span>配合前端添加列表页锚点及修改相应dom结构h
                         </button>
                     </div> <!-- end nav-header -->
 
@@ -146,7 +146,7 @@
         </div>
     </header> <!-- end navigation -->
 
-    <div class="tlinks">Collect from <a href="http://www.cssmoban.com/" >企业网站模板</a></div>
+    <div class="tlinks">Collect from <a href="http://www.cssmoban.com/" ></a></div>
     <div class="content-wrapper oh">
 
         <!-- Hero -->
@@ -155,7 +155,7 @@
             <div class="container hero__container--short">
                 <div class="hero__outer">
                     <div class="hero__inner">
-                        <h1 class="hero__title mb-0">Howdy, I’m Clark.<br>Creative Artist From New York</h1>
+                        <h1 class="hero__title mb-0">因为专业，所以信赖<br>专业办理北京牌照，说出你的需求。我们帮您实现。</h1>
                     </div>
                 </div>
             </div>
