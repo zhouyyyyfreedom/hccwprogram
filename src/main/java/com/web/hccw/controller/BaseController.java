@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 @Controller
 @Scope("prototype")
 public class BaseController {
-    @RequestMapping(value = "/index",method = RequestMethod.GET)
+    @RequestMapping(value = "/",method = RequestMethod.GET)
     public ModelAndView getImgTxtConfigList(HttpServletRequest result, HttpServletResponse response){
         ModelAndView modelAndView = new ModelAndView("/index");
         modelAndView.addObject("name","123");
