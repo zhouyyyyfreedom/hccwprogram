@@ -56,7 +56,7 @@
                             <span class="sr-only">Toggle navigation</span>
                             <span class="nav__icon-toggle-bar"></span>
                             <span class="nav__icon-toggle-bar"></span>
-                            <span class="nav__icon-toggle-bar"></span>配合前端添加列表页锚点及修改相应dom结构h
+                            <span class="nav__icon-toggle-bar"></span>
                         </button>
                     </div> <!-- end nav-header -->
 
@@ -163,12 +163,19 @@
         </section> <!-- end hero -->
 
         <!-- Portfolio 2 columns-->
-        <section class="section-wrap">
+        <section class="section-wrap" >
             <div class="container">
 
                 <div class="heading-row text-center">
-                    <h2 class="heading">Check My Works</h2>
-                    <p class="subheading">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore Lorem ipsum dolor sit amet</p>
+                    <h2 class="heading">专业办理北京市小客车指标</h2>
+                    <p class="subheading">
+                        1、落本人名下☞指标<br>
+                        2、结婚过户本人名下☞指标<br>
+                        3、二十年终身背户☞指标<br>
+                        4、1、2、3、5年短租☞指标<br>
+                        5、公司过户法人☞指标<br>
+                        电话：15910808571  微信同步
+                    </p>
                 </div>
 
                 <div  class="row">
