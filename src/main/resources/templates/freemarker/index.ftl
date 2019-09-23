@@ -9,7 +9,7 @@
     <meta name="description" content="">
 
     <!-- Google Fonts -->
-    <link href='https://fonts.googleapis.com/css?family=Karla:400,400i,700%7CLato:300,400,400i,700' rel='stylesheet'>
+    <#--<link href='https://fonts.googleapis.com/css?family=Karla:400,400i,700%7CLato:300,400,400i,700' rel='stylesheet'>-->
 
     <!-- Css -->
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
